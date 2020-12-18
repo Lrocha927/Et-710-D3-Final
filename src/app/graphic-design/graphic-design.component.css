@@ -1,13 +1,13 @@
 
 .simple-article-header {
-  background: #fefefe;
+  background: #d6b5b5;
   padding: 1.3rem 2rem .7rem;
-  border: 1px solid #cacaca;
+  border: 1px solid #070606;
   margin-bottom: 1rem;
 }
 
 .simple-article-header .article-date-read {
-  color: #8a8a8a;
+  color: #070606;
 }
 
 .simple-article-header .article-title {
@@ -15,19 +15,19 @@
 }
 
 .simple-article-header .article-title a {
-  color: #0a0a0a;
+  color: #0f0e0e;
 }
 
 .simple-article-header .article-title a:hover, .simple-article-header .article-title a:focus {
-  color: #1779ba;
+  color: #b6d1e4;
 }
 
 .simple-article-header .article-author-comments a.article-comments {
-  color: #8a8a8a;
+  color: #791a1a;
 }
 
 .simple-article-header .article-author-comments a.article-comments:hover, .simple-article-header .article-author-comments a.article-comments:focus {
-  color: #1779ba;
+  color: #16374d;
 }
 
 .simple-article-header .article-date-read,
